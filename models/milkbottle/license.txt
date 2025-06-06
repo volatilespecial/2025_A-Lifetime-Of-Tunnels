@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baby Milk Bottle
+* source:	https://sketchfab.com/3d-models/baby-milk-bottle-5bf8b9da52354fbe87c926a87b541c5f
+* author:	Arline Tjandra (https://sketchfab.com/arlinetjandra)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baby Milk Bottle" (https://sketchfab.com/3d-models/baby-milk-bottle-5bf8b9da52354fbe87c926a87b541c5f) by Arline Tjandra (https://sketchfab.com/arlinetjandra) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

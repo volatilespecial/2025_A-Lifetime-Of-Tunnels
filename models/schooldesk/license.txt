@@ -1,0 +1,8 @@
+Model Information:
+* title:	Anime school desk
+* source:	https://sketchfab.com/3d-models/anime-school-desk-2d80e4463eb345e9829f66d01a1ac707
+* author:	Birp20 (https://sketchfab.com/Paphonsan)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

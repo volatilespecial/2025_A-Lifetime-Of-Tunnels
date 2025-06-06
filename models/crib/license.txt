@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crib
+* source:	https://sketchfab.com/3d-models/crib-813bc61cacf34b25ac12a6c0b7dcb47f
+* author:	gloryfish (https://sketchfab.com/gloryfish)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crib" (https://sketchfab.com/3d-models/crib-813bc61cacf34b25ac12a6c0b7dcb47f) by gloryfish (https://sketchfab.com/gloryfish) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

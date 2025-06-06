@@ -1,0 +1,8 @@
+Model Information:
+* title:	Kid toy low poly
+* source:	https://sketchfab.com/3d-models/kid-toy-low-poly-0360a1056dba4140b2c6be3c4abec3a6
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
